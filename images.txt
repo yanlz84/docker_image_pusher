@@ -1,2 +1,1 @@
-xiaoyaliu/alist
 lobehub/lobe-chat
